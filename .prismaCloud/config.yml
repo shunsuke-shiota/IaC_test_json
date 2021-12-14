@@ -9,7 +9,7 @@ template_type: CFT
 # variable_values is an array of name/value pairs, which identifies the
 # template variables
 
-# cft_parameters:
+cft_parameters:
 variable_values:
 - name:KeyName
 value: 10

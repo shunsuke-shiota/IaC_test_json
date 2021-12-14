@@ -11,7 +11,7 @@ template_type: CFT
 
 cft_parameters:
 variable_values:
-- name:KeyName
+- name: KeyName
 value: 10
 - name: AMI
 value: ami-45785
